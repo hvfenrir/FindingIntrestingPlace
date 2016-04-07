@@ -5,7 +5,7 @@
 **Group Infomation:**
 - Harry Nguyễn
 - Lâm Vũ Vương
-- Phạm Quốc Vinh 
+- Phạm Quang Vinh 
 
 **Survey Data**
 Here is [Survey Data Link](https://docs.google.com/spreadsheets/d/1Mshfr2tfdUNzd-R1TiGoM6Yd496cfueRp3Mjqilp-rY/edit?usp=sharing)
